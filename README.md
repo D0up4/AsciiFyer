@@ -58,7 +58,7 @@ If you plan to Asciify a Discord webhook and use it in your own script, you'll n
 Then use:
 
    ```bash
-   ascii_webhook = "Asciifyed Webhook"
+   ascii_webhook = """Asciifyed Webhook"""
    ```
 ⚠️ Replace "Asciifyed Webhook" with your actual Asciified webhook (space-separated numbers).
 This will return the original webhook URL you can use in requests.
